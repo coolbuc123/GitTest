@@ -4,3 +4,6 @@
 3차 수정
 
 11.2 회사 수정
+
+Brewda에서 저장소 clone 후 수정하여 
+GitHub에 재 Push 해봄
